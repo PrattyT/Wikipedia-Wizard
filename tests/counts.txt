@@ -1,0 +1,12 @@
+aadarsh,0
+ajit,54
+anish,45
+arnav,0
+arsh,63
+aryan,34
+eshaan,0
+nikil,19
+pratyush,22
+rahul,0
+sathvik,38
+vedant,0
